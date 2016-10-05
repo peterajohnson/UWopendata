@@ -1,0 +1,296 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "description": "Rent from Parking Services for $10/month",
+        "note": "Mathematics 3 (M3)",
+        "capacity": "4 bikes",
+        "phone": "519-888-4567, ext. 33100",
+        "email": "uparking@uwaterloo.ca",
+        "website": "https://uwaterloo.ca/parking/bike-locker-program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54419,
+          43.47287,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "description": "Rent from Parking Services for $10/month",
+        "note": "Ira G. Needles Hall (NH)",
+        "capacity": "4 bikes",
+        "phone": "519-888-4567, ext. 33100",
+        "email": "uparking@uwaterloo.ca",
+        "website": "https://uwaterloo.ca/parking/bike-locker-program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54309,
+          43.46973,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "description": "Rent from Parking Services for $10/month",
+        "note": "J.R. Coutts Engineering Lecture Hall (RCH)",
+        "capacity": "4 bikes",
+        "phone": "519-888-4567, ext. 33100",
+        "email": "uparking@uwaterloo.ca",
+        "website": "https://uwaterloo.ca/parking/bike-locker-program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54111,
+          43.47029,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null,
+        "description": "Rent from Parking Services for $10/month",
+        "note": "Environment 1 (EV1)",
+        "capacity": "4 bikes",
+        "phone": "519-888-4567, ext. 33100",
+        "email": "uparking@uwaterloo.ca",
+        "website": "https://uwaterloo.ca/parking/bike-locker-program"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54249,
+          43.468,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Turnkey Desk",
+        "description": "Opens 24/7 and knows just about everything around campus and the community. Get answers to questions, book a study room, and purchase Greyhound or GO Transit tickets.",
+        "note": "Student Life Centre (SLC)",
+        "opening_hours": "24/7",
+        "phone": "519-888-4434",
+        "email": "turnkeys@uwaterloo.ca",
+        "url": "https://uwaterloo.ca/student-life-centre/turnkey-desk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54565,
+          43.47155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Police Services",
+        "description": "Police Services serve to ensure a safe and secure campus environment. Report crime, aggressive behavior, suspicious activity, or other unusual situation. Register the serial number of bikes and electronics.",
+        "note": "Commissary (COM)",
+        "opening_hours": "24/7",
+        "phone": "519-888-4567, ext. 22222; 519-888-4911",
+        "email": "uwpolice@uwaterloo.ca",
+        "url": "https://uwaterloo.ca/police/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5428,
+          43.47437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parking Services",
+        "description": "Parking Services manage campus lots and enforces parking regulations. Purchase parking permits, pay a ticket, or appeal an infraction.",
+        "note": "Commissary (COM)",
+        "opening_hours": "Mo-Fr 07:30-17:30",
+        "phone": "519-888-4567, ext. 33100",
+        "email": "uparking@uwaterloo.ca",
+        "url": "https://uwaterloo.ca/parking/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54273,
+          43.47438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Visitors Centre",
+        "description": "Provides student-led campus tours, information for visitors, and tips for self-guided tours.",
+        "note": "South Campus Hall (SCH)",
+        "opening_hours": "Mo-Fr 08:30-16:30; Sa 10:00-16:00",
+        "phone": "519-888-4567, ext. 33614",
+        "email": "vcinfo@uwaterloo.ca",
+        "url": "https://uwaterloo.ca/find-out-more/visit-waterloo/visitors-centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54026,
+          43.46909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CIBC",
+        "description": "",
+        "note": "South Campus Hall (SCH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54032,
+          43.46938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CIBC",
+        "description": "",
+        "note": "Student Life Centre (SLC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54564427965785,
+          43.47160888938205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CIBC",
+        "description": "",
+        "note": "Student Life Centre (SLC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.545526,
+          43.471581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CIBC",
+        "description": "",
+        "note": "William G. Davis Computer Research Centre (DC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54265104234219,
+          43.47298766617178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RBC",
+        "description": "",
+        "note": "Westmount Place Shopping Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.53770582253419,
+          43.46158530997294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scotiabank",
+        "description": "",
+        "note": "St. Paul's University College (STP)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.546304,
+          43.467841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TD",
+        "description": "",
+        "note": "Laurelwood Shopping Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.56838717311621,
+          43.46735615168525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BMO",
+        "description": "",
+        "note": "University Plaza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.53815331310034,
+          43.47154861939896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Education Credit Union",
+        "description": "",
+        "note": "Tech Town (TT)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.54871,
+          43.47922
+        ]
+      }
+    }
+  ]
+}
